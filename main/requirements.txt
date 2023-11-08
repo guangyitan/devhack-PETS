@@ -1,0 +1,5 @@
+geocoder==1.38.1
+pip-chill==1.0.3
+tensorflow==2.14.0
+ultralytics==8.0.205
+numpy==1.23.5
