@@ -30,9 +30,9 @@
 ## Demo
 ### Accident & Pothole Detection
 
-https://github.com/guangyitan/devhack/assets/83216707/25e32aa1-4a2f-4803-a6c2-6a398182bda7
+https://github.com/guangyitan/devhack-PETS/assets/83216707/a1349464-da72-45e3-993b-48b974516d2e
 
-https://github.com/guangyitan/devhack/assets/83216707/48b1aeb1-fa99-4f4d-87db-2bfd70f2f4e1
+https://github.com/guangyitan/devhack-PETS/assets/83216707/2805335a-ffb9-47a7-a33d-60db0fb1dd8a
 
 ### Traffic Flow & Pothole Detection
 
@@ -46,8 +46,7 @@ https://github.com/guangyitan/devhack/assets/83216707/e6b943db-0eac-41e0-9d17-10
 
 https://github.com/guangyitan/devhack/assets/83216707/6427cb47-e716-4fe9-a19a-1e13fa756e33
 
-https://github.com/guangyitan/devhack/assets/83216707/c2749820-64b3-444b-96db-8d7df82a7fe7
-
+https://github.com/guangyitan/devhack-PETS/assets/83216707/de6c32bd-130b-4cb6-bd2b-b50c31488218
 
 
 <!-- GETTING STARTED -->
