@@ -40,23 +40,36 @@
 
 ### Accident & Pothole Detection
 
-https://github.com/guangyitan/devhack-PETS/assets/83216707/5a0c888c-7db6-4ec1-b796-a2c48ae61b64
+If video is not playable: [Youtube](https://youtu.be/zNbTNnXWP5c)
 
-https://github.com/guangyitan/devhack-PETS/assets/83216707/9556d37d-ef9d-4a92-a797-12b3e5a70e76
+https://github.com/guangyitan/devhack-PETS/assets/83216707/05551d40-6cb1-47f7-877b-f496cbfaf597
+
+If video is not playable: [Youtube](https://youtu.be/evjpWMpXj80)
+
+https://github.com/guangyitan/devhack-PETS/assets/83216707/9feb6c1d-bb77-4b07-ad3e-413c731e9c13
 
 ### Traffic Flow & Pothole Detection
+
+If video is not playable: [Youtube](https://youtu.be/fCWraJGd9l8)
 
 https://github.com/guangyitan/devhack/assets/83216707/0940b2f2-f4a0-4f41-9a88-dda5c98d992b
 
 ### Parking Detection
 
+If video is not playable: [Youtube](https://youtu.be/rwf37F6bov8)
+
 https://github.com/guangyitan/devhack/assets/83216707/e6b943db-0eac-41e0-9d17-1044172bbd31
 
 ## Pothole Detection
 
+If video is not playable: [Youtube](https://youtu.be/TqYsIMOEWUY)
+
 https://github.com/guangyitan/devhack/assets/83216707/6427cb47-e716-4fe9-a19a-1e13fa756e33
 
-https://github.com/guangyitan/devhack-PETS/assets/83216707/de6c32bd-130b-4cb6-bd2b-b50c31488218
+If video is not playable: [Youtube](https://youtu.be/TMh4xWcqeuI)
+
+
+https://github.com/guangyitan/devhack-PETS/assets/83216707/7adb7423-a305-4fa5-8b77-f5f650f71c64
 
 
 <!-- GETTING STARTED -->
