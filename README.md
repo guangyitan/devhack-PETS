@@ -40,33 +40,35 @@
 
 ### Accident & Pothole Detection
 
-If video is not playable: [Youtube](https://youtu.be/zNbTNnXWP5c)
+If video is not playable: [Youtube PETS - Accident & Pothole Detection - Demo 1](https://youtu.be/zNbTNnXWP5c)
 
 https://github.com/guangyitan/devhack-PETS/assets/83216707/05551d40-6cb1-47f7-877b-f496cbfaf597
 
-If video is not playable: [Youtube](https://youtu.be/evjpWMpXj80)
+If video is not playable: [Youtube PETS - Accident & Pothole Detection - Demo 2](https://youtu.be/evjpWMpXj80)
 
 https://github.com/guangyitan/devhack-PETS/assets/83216707/9feb6c1d-bb77-4b07-ad3e-413c731e9c13
 
 ### Traffic Flow & Pothole Detection
 
-If video is not playable: [Youtube](https://youtu.be/fCWraJGd9l8)
+If video is not playable: [Youtube PETS - Traffic Flow & Pothole Detection - Demo](https://youtu.be/fCWraJGd9l8)
 
-https://github.com/guangyitan/devhack/assets/83216707/0940b2f2-f4a0-4f41-9a88-dda5c98d992b
+https://github.com/guangyitan/devhack-PETS/assets/83216707/19984daa-26df-42ba-a723-029d70dc418a
 
 ### Parking Detection
 
-If video is not playable: [Youtube](https://youtu.be/rwf37F6bov8)
+If video is not playable: [Youtube PETS - Parking Detection - Demo](https://youtu.be/rwf37F6bov8)
 
-https://github.com/guangyitan/devhack/assets/83216707/e6b943db-0eac-41e0-9d17-1044172bbd31
+https://github.com/guangyitan/devhack-PETS/assets/83216707/4abc9233-ef3d-477f-b158-33a17fa6c853
 
 ## Pothole Detection
 
-If video is not playable: [Youtube](https://youtu.be/TqYsIMOEWUY)
+If video is not playable: [Youtube PETS - Pothole Detection - Demo 1](https://youtu.be/TqYsIMOEWUY)
 
-https://github.com/guangyitan/devhack/assets/83216707/6427cb47-e716-4fe9-a19a-1e13fa756e33
 
-If video is not playable: [Youtube](https://youtu.be/TMh4xWcqeuI)
+https://github.com/guangyitan/devhack-PETS/assets/83216707/3bd6405c-7f76-42da-8adf-e40e14c38a21
+
+
+If video is not playable: [Youtube PETS - Pothole Detection - Demo 2](https://youtu.be/TMh4xWcqeuI)
 
 
 https://github.com/guangyitan/devhack-PETS/assets/83216707/7adb7423-a305-4fa5-8b77-f5f650f71c64
