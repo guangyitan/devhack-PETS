@@ -7,6 +7,8 @@
     <li>
       <a href="#demo">Demo</a>
       <ul>
+        <li><a href=#pets-dashboard-demo">PETS Dashboard Demo</a></li>
+        <li><a href=#pets-mobile-view-demo">PETS Mobile View Demo</a></li>
         <li><a href="#accident--pothole-detection">Accident & Pothole Detection</a></li>
         <li><a href="#traffic-flow--pothole-detection">Traffic Flow & Pothole Detection</a></li>
         <li><a href="#parking-detection">Parking Detection</a></li>
@@ -28,11 +30,19 @@
 </details>
 
 ## Demo
+### PETS Dashboard Demo
+
+[Figma Prototype](https://www.figma.com/proto/Z2IoNZiSgzcobu0HJIBAI9/Untitled?type=design&node-id=43-25637&t=f9RJFsaFJzrJkCrF-1&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=43%3A25637&show-proto-sidebar=1&mode=design)
+
+### PETS Mobile View Demo
+
+[Figma Prototype](https://www.figma.com/proto/Z2IoNZiSgzcobu0HJIBAI9/Untitled?type=design&node-id=68-15158&t=4mOIi9B7ZspJbZfB-0&scaling=scale-down-width&page-id=0%3A1&starting-point-node-id=68%3A15158&show-proto-sidebar=1)
+
 ### Accident & Pothole Detection
 
-https://github.com/guangyitan/devhack-PETS/assets/83216707/a1349464-da72-45e3-993b-48b974516d2e
+https://github.com/guangyitan/devhack-PETS/assets/83216707/5a0c888c-7db6-4ec1-b796-a2c48ae61b64
 
-https://github.com/guangyitan/devhack-PETS/assets/83216707/2805335a-ffb9-47a7-a33d-60db0fb1dd8a
+https://github.com/guangyitan/devhack-PETS/assets/83216707/9556d37d-ef9d-4a92-a797-12b3e5a70e76
 
 ### Traffic Flow & Pothole Detection
 
